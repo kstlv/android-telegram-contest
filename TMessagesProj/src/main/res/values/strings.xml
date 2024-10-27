@@ -3472,6 +3472,7 @@
     <string name="BotWebViewRequestWriteMessage">Allow this bot to send you messages?</string>
     <string name="BotMultiContactsSelectorLimit_one">You can select maximum %1$d user.</string>
     <string name="BotMultiContactsSelectorLimit_other">You can select maximum %1$d users.</string>
+    <string name="BotStartButtonHint">Tap here to use this bot</string>
     <!--button titles-->
     <string name="Done">Done</string>
     <string name="Open">Open</string>
